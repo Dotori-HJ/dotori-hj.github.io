@@ -109,9 +109,9 @@ author:
   location         : "Seoul Korea"
   email            : "arang318@gmail.com"
   links:
-#    - label: "arang318@gmail.com"
-#      icon: "fas fa-fw fa-envelope-square"
-#      url: mailto:arang318@gmail.com
+    - label: "arang318@gmail.com"
+      icon: "fas fa-fw fa-envelope-square"
+      url: mailto:arang318@gmail.com
 #    - label: "Website"
 #      icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
