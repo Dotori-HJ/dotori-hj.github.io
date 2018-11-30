@@ -107,11 +107,11 @@ author:
   avatar           : "/assets/images/profile_pic.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Artificial Inteligence Researcher."
   location         : "Seoul Korea"
-  email            : "arang318@gmail.com"
+#  email            : "arang318@gmail.com"
   links:
-#    - label: "arang318@gmail.com"
-#      icon: "fas fa-fw fa-envelope-square"
-#      url: mailto:arang318@gmail.com
+    - label: "arang318@gmail.com"
+      icon: "fas fa-fw fa-envelope-square"
+      url: mailto:arang318@gmail.com
 #    - label: "Website"
 #      icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
