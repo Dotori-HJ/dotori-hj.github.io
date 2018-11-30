@@ -15,8 +15,8 @@
 minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "ko-KR"
-title                    : "Dotori Blog"
+locale                   : "ko-US"
+title                    : "Dotori Dev Blog"
 title_separator          : "-"
 name                     : "HoJoong Kim"
 description              : "Artificial Inteligence Researcher."
@@ -104,12 +104,12 @@ analytics:
 # Site Author
 author:
   name             : "HoJoong Kim"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
+  avatar           : "/assets/images/profile_pic.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Artificial Inteligence Researcher."
   location         : "Seoul Korea"
   email            : "arang318@gmail.com"
   links:
-    - label: "Email"
+    - label: "arang318@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:arang318@gmail.com
 #    - label: "Website"
@@ -121,7 +121,7 @@ author:
 #    - label: "Facebook"
 #      icon: "fab fa-fw fa-facebook-square"
 #      # url: "https://facebook.com/"
-    - label: "GitHub"
+    - label: "Dotori-HJ"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Dotori-HJ"
 #    - label: "Instagram"
