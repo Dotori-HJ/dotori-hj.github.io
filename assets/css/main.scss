@@ -6,3 +6,10 @@
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+
+@font-face {
+	  font-family: "10X10";
+		  src: url('/assets/fonts/10X10.ttf'),
+           url('/assets/fonts/10X10Bold.ttf');
+}
