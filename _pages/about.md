@@ -1,9 +1,9 @@
 ---
 layout: single
 author_profile: true
+title: HoJoong Kim
+permalink: /about/
 ---
-
-# HoJoong Kim
 
 * Undergraduate Student
 * Department of Industrial and Management Engineering(Major)
