@@ -5,6 +5,8 @@ title: HoJoong Kim
 permalink: /about/
 ---
 
+
+
 * Undergraduate Student
 * Department of Industrial and Management Engineering(Major)
 * Department of Computer Engineering(Double Major)
