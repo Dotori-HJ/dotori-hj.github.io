@@ -28,5 +28,6 @@ permalink: /about/
 
 | Authors        | Title                                | Society                                   | Etc.                                                         |
 | --------------------- | ------------------------------------------------------- | -------------------------------------- | ------------------------------------ |
+| 김호중, 정성훈 | SCGN: 자기수렴 생성망(SCGN: Self-Converging Generative Networks) | 대한전자공학회 하계공동학술대회 논문집 | pp.1000-1001,  Jun, 2019, 제주 메종글래드[[Paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE08762125)\|[Best Paper Award](/assets/images/ieek2019-award.jpg)] |
 | 김호중, 정성훈 | SOGN:자기조직 생성망(SOGN: Self-Organizing Generative Networks) | 대한전자공학회 추계공동학술대회 논문집 | pp.687-688, Nov, 2018, 인천 송도 컨벤시아 [[Paper](http://www.dbpia.co.kr/Journal/ArticleDetail/NODE07624976)\|[Best Paper Award](/assets/images/ieek2018-award.jpg)] |
 | 김호중, 정성훈 | 셀 우주상에서 인공개체의 주화성 진화(Evolution of Chemotaxis of Artificial Individuals on Cellular Cosmos) | 2017년 대한전자공학회 추계학술대회 논문집 | pp. 970-971, Nov, 2017, 인천 송도 컨벤시아 [[Paper](http://www.dbpia.co.kr/Journal/ArticleDetail/NODE07276506)] |
