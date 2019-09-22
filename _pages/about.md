@@ -12,19 +12,19 @@ permalink: /about/
 * Department of Computer Engineering(Double Major)
 * Hansung University
 
-## Research Interests
+# Research Interests
+
+..
 
 
-
-
-## Journal Papers
+# Journal Papers
 
 | Authors               | Title                                                   | Society                                | Etc.                                 |
 | --------------------- | ------------------------------------------------------- | -------------------------------------- | ------------------------------------ |
 | H. Kim and S. H. Jung | SOGN:A Novel Generative Model using Self-Organizing Map | Electronics Letters | Vol. 55, no. 10, pp. 597-599, May 2019 [[Paper](https://digital-library.theiet.org/content/journals/10.1049/el.2019.0202?originator=ietauthorOffprint&identity=472350&timestamp=20200318140846&signature=87c328261a11d1dbce280e6be244c9e5&tinyUrl=http://ietdl.org/t/dOrfE)\|[News Article](<https://news.joins.com/article/23428070>)] |
 | 김호중, 정성훈 | 셀 우주상에서 인공개체의 주화성 진화(Evolution of Chemotaxis of Artificial Individuals on Cellular Cosmos) | 한국지능시스템학회(Korean Institute of Intelligent Systems) | vol. 29, no. 1, pp. 62-69, Feb. 2019 [[Paper](http://www.dbpia.co.kr/Journal/ArticleDetail/NODE07617428)] |
 
-## Conference Proceedings
+# Conference Proceedings
 
 | Authors        | Title                                | Society                                   | Etc.                                                         |
 | --------------------- | ------------------------------------------------------- | -------------------------------------- | ------------------------------------ |
